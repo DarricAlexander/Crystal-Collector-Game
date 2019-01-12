@@ -1,5 +1,7 @@
 # jQuery Assignment
 
+## Link: https://darricalexander.github.io/Crystal-Collector-Game/
+
 ### Option One: CrystalsCollector Game (Recommended)
 
 ![Crystal Collector](Images/1-CrystalCollector.jpg)
