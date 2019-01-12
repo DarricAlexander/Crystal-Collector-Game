@@ -30,4 +30,4 @@
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
 
-   ![Screenshot](demo image.png)
+   ![Screenshot](demoimage.png)
